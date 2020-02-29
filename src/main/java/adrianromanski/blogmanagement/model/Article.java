@@ -1,7 +1,7 @@
-package adrianromanski.blogmanagment.model;
+package adrianromanski.blogmanagement.model;
 
 import lombok.Data;
-import org.elasticsearch.client.security.user.User;
+
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
 import org.springframework.data.elasticsearch.annotations.Field;

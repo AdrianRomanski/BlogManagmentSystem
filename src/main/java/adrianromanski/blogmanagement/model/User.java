@@ -1,4 +1,4 @@
-package adrianromanski.blogmanagment.model;
+package adrianromanski.blogmanagement.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

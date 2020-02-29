@@ -1,6 +1,6 @@
-package adrianromanski.blogmanagment.repositories;
+package adrianromanski.blogmanagement.repositories;
 
-import adrianromanski.blogmanagment.model.Article;
+import adrianromanski.blogmanagement.model.Article;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;

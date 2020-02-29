@@ -1,6 +1,6 @@
-package adrianromanski.blogmanagment.repositories;
+package adrianromanski.blogmanagement.repositories;
 
-import adrianromanski.blogmanagment.model.User;
+import adrianromanski.blogmanagement.model.User;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 
 public interface UserRepository extends ElasticsearchRepository<User, String> {
